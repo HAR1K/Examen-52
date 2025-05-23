@@ -85,7 +85,7 @@ namespace Eximena.Windows.Interfase {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Eximena;component/windows/interfase/operator.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Eximena;V1.0.0.0;component/windows/interfase/operator.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Windows\Interfase\Operator.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

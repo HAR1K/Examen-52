@@ -5,6 +5,9 @@
     <Compile Update="Windows\Interfase\Admin.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Windows\Interfase\AdminOperator.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Windows\Interfase\Operator.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

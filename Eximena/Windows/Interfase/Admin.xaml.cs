@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Eximena.Data.Context;
+using Eximena.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +24,34 @@ namespace Eximena.Windows.Interfase
         public Admin()
         {
             InitializeComponent();
+            using (Context db = new Context())
+            {
+                list.ItemsSource = db.Orders.ToList();
+            }
+        }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button button && button.Tag is Order order)
+            {
+                using (Context db = new Context())
+                {
+                    var existingOrder = db.Orders.FirstOrDefault(x => x.OrderId == order.OrderId);
+                    if (existingOrder != null)
+                    {
+                        existingOrder.Status = order.Status;
+                        existingOrder.NameOrder = order.NameOrder;
+                        existingOrder.Master = order.Master;
+                        db.SaveChanges();
+                        MessageBox.Show("Данные заказа обновлен!");
+                    }
+                    list.ItemsSource = db.Orders.ToList();
+                }
+            }
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            new AdminOperator().Show(); 
         }
     }
 }

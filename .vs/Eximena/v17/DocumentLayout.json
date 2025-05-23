@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\arexa\\source\\repos\\Eximena\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\operator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\operator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\adminoperator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\adminoperator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\operator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\operator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\technik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\technik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\operator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\operator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\adminoperator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\adminoperator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\technik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\technik.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\windows\\interfase\\technik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|solutionrelative:eximena\\windows\\interfase\\technik.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72AD1A35-74F3-48D2-B256-753379123888}|Eximena\\Eximena.csproj|c:\\users\\arexa\\source\\repos\\eximena\\eximena\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1389,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,33 +149,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegistrationPersonnel.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
-              "RelativeDocumentMoniker": "Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
-              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
-              "RelativeToolTip": "Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AdminOperator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\AdminOperator.xaml.cs",
+              "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\AdminOperator.xaml.cs",
+              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\AdminOperator.xaml.cs",
+              "RelativeToolTip": "Eximena\\Windows\\Interfase\\AdminOperator.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:13:10.875Z",
+              "WhenOpened": "2025-05-23T18:18:41.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Registration.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Registration.xaml.cs",
-              "RelativeDocumentMoniker": "Eximena\\Windows\\Registration.xaml.cs",
-              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Registration.xaml.cs",
-              "RelativeToolTip": "Eximena\\Windows\\Registration.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:02:48.64Z",
+              "DocumentIndex": 5,
+              "Title": "AdminOperator.xaml",
+              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\AdminOperator.xaml",
+              "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\AdminOperator.xaml",
+              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\AdminOperator.xaml",
+              "RelativeToolTip": "Eximena\\Windows\\Interfase\\AdminOperator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T18:18:14.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Admin.xaml.cs",
+              "RelativeToolTip": "Eximena\\Windows\\Interfase\\Admin.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:04:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LoginUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\LoginUser.xaml.cs",
               "RelativeDocumentMoniker": "Eximena\\Windows\\LoginUser.xaml.cs",
@@ -171,12 +195,11 @@
               "RelativeToolTip": "Eximena\\Windows\\LoginUser.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:16:53.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T15:16:53.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Operator.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Operator.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Operator.xaml",
@@ -188,32 +211,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Technik.xaml.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Technik.xaml.cs",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Technik.xaml.cs",
               "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Technik.xaml.cs",
               "RelativeToolTip": "Eximena\\Windows\\Interfase\\Technik.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T16:32:14.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "LoginUser.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\LoginUser.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\LoginUser.xaml",
               "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\LoginUser.xaml",
               "RelativeToolTip": "Eximena\\Windows\\LoginUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-23T14:48:45.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T14:48:45.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RegistrationPersonnel.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\RegistrationPersonnel.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\RegistrationPersonnel.xaml",
@@ -224,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Admin.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Admin.xaml",
@@ -236,20 +258,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Operator.xaml.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Operator.xaml.cs",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Operator.xaml.cs",
               "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Operator.xaml.cs",
               "RelativeToolTip": "Eximena\\Windows\\Interfase\\Operator.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T16:17:00.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "Eximena\\Windows\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Registration.xaml.cs",
+              "RelativeToolTip": "Eximena\\Windows\\Registration.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:02:48.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Technik.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Interfase\\Technik.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Interfase\\Technik.xaml",
@@ -261,7 +295,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
+              "Title": "RegistrationPersonnel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
+              "RelativeDocumentMoniker": "Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
+              "ToolTip": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
+              "RelativeToolTip": "Eximena\\Windows\\RegistrationPersonnel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:13:10.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Context\\Context.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Context\\Context.cs",
@@ -273,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Registration.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Windows\\Registration.xaml",
               "RelativeDocumentMoniker": "Eximena\\Windows\\Registration.xaml",
@@ -284,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\App.xaml",
               "RelativeDocumentMoniker": "Eximena\\App.xaml",
@@ -296,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ConnectionStringBuilder.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Connect\\ConnectionStringBuilder.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Connect\\ConnectionStringBuilder.cs",
@@ -308,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Eximena.csproj",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Eximena.csproj",
               "RelativeDocumentMoniker": "Eximena\\Eximena.csproj",
@@ -320,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
@@ -354,7 +400,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Models\\User.cs",
@@ -366,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Models\\Order.cs",
@@ -379,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Models\\Role.cs",
@@ -387,12 +433,11 @@
               "RelativeToolTip": "Eximena\\Data\\Models\\Role.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:51:22.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T14:51:22.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Personnel.cs",
               "DocumentMoniker": "C:\\Users\\arexa\\source\\repos\\Eximena\\Eximena\\Data\\Models\\Personnel.cs",
               "RelativeDocumentMoniker": "Eximena\\Data\\Models\\Personnel.cs",
@@ -400,8 +445,7 @@
               "RelativeToolTip": "Eximena\\Data\\Models\\Personnel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:51:36.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T14:51:36.395Z"
             }
           ]
         }
